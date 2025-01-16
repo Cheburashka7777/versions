@@ -3,5 +3,28 @@
     "drops": "v1.0.4",
     "fabrika": "v1.2.2",
     "my_duck": "v1.4.0",
-    "zoo": "v1.0.0"
+    "zoo": "v1.0.0",
+    "1win": {
+        "max_level40": ["$cryptocliker_gamedev_studio", 
+                        "$cryptoclicker_karting_club", 
+                        "$cryptocliker_catering_company", 
+                        "$cryptocliker_oil_well", 
+                        "$cryptoclicker_language_school", 
+                        "$cryptoclicker_craft_brewery",
+                        "$cryptoclicker_electronics_store"],
+
+        "max_level50": ["$cryptocliker_yacht_club", 
+                        "$cryptoclicker_movie_company",
+                        "$cryptocliker_insurance_company", 
+                        "$cryptocliker_oil_factory",
+                        "$cryptoclicker_cosmetics_company", 
+                        "$cryptoclicker_airline", 
+                        "$cryptoclicker_pharmaceutical_factory"],
+
+        "no_building": ["townhouse11", 
+                        "cemetery16", 
+                        "dancingfountain16",
+                        "bookstore16", 
+                        "constructionfactory16"]
+            }
 }
